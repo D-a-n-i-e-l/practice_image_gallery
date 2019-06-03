@@ -1,0 +1,23 @@
+body {
+  background-color: #f7f7f4
+}
+h1 {
+  font-family: 'Spectral SC', serif;
+  font-size: 90px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  }
+#gallery {
+  width: 100%;
+  height: auto;
+}
+#gallery:hover {
+  opacity: 0.5;
+}
+img {
+    width: 100%;
+ 
+  }
+.centered {
